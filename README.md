@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I'm a Computer Science graduate currently pursuing a Master's Degree in Communication Networks and Systems Security at Aristotle University of Thessaloniki. My expertise spans software development, cybersecurity, cloud computing, blockchain technologies, and automation.
+I'm a Computer Science and a Master's Degree graduate in Communication Networks and Systems Security at Aristotle University of Thessaloniki. My expertise spans software development, cybersecurity, cloud computing, blockchain technologies, and automation.
 
 I have extensive hands-on experience with Python programming, network management, and Web3 security. I'm also adept at building and automating trading bots, deploying smart contracts on blockchain (particularly Solana), and creating automated video content using modern APIs.
 
