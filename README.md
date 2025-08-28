@@ -10,13 +10,13 @@ Always eager to explore new technologies, my goal is to continually enhance effi
 
 ## 🔧 Technical Skills
 
-**Programming Languages:** Python, JavaScript, Java, C++, C, PHP, SQL, HTML, CSS
+**Programming Languages:** Python, JavaScript, Java, C++, C, PHP, SQL, HTML, CSS, Typescript, Rust
 
 **Cloud & DevOps:** AWS, Linux Administration, oVirt, Virtual Machines, Firebase, Netlify
 
 **Networking & Security:** Network Security, Cybersecurity, Penetration Testing, GNS3, OpenNMS
 
-**Blockchain & Web3:** Smart Contract Development (Solana), Token Deployment, Cryptocurrency Trading Automation
+**Blockchain & Web3:** Smart Contract Development (Solana), Token Deployment, Cryptocurrency Trading Automation, Typescript Solana Blockchain Automation.
 
 **Automation & AI:** Python Scripting, Algorithmic Trading Bots, Automated Content Creation (ElevenLabs API, AWS, YouTube API)
 
