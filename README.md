@@ -31,6 +31,7 @@ Always eager to explore new technologies, my goal is to continually enhance effi
   - [esavpro.com](https://www.esavpro.com)
   - [helldivers.space](https://www.helldivers.space)
   - [virsionstudio.com](https://virsionstudio.com)
+  - [secureyoursol.com](https://www.secureyoursol.com)
 
 ## 📜 Certifications
 - ECDL A-B Certification
